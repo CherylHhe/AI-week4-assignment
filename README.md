@@ -7,7 +7,6 @@ This repository addresses the classification of Sentinel-3 altimetry data into *
 
 ## Repository Structure  
 ```
-.
 data/                                                 # Sentinel-3 NetCDF files (user-provided)
 images/                                               # Output plots (e.g., waveforms, scatter plots)
 Chapter1_Unsupervised_Learning_Methods_Michel.ipynb   # This file is from our lecturer Dr. Michel Tsamados; the second (modified) removes all echo plots.
