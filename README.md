@@ -8,11 +8,11 @@ This repository addresses the classification of Sentinel-3 altimetry data into *
 ## Repository Structure  
 ```
 .
-├── data/                    # Sentinel-3 NetCDF files (user-provided)
-├── images/                  # Output plots (e.g., waveforms, scatter plots)
-├── Chapter1_Unsupervised_Learning_Methods_Michel.ipynb  # Main Jupyter notebook
-├── README.md                # This documentation
-└── requirements.txt         # Python dependencies
+data/                    # Sentinel-3 NetCDF files (user-provided)
+images/                  # Output plots (e.g., waveforms, scatter plots)
+Chapter1_Unsupervised_Learning_Methods_Michel.ipynb  # Main Jupyter notebook (This is the first file provided by our Lecturer Michel, the second one I made some changes: deleted the plots showing all the echos)
+README.md                # This documentation
+requirements.txt         # Python dependencies
 ```
 
 ---
@@ -73,11 +73,3 @@ This repository addresses the classification of Sentinel-3 altimetry data into *
 ### 2. Key Observations  
 - **Sea Ice**: Broader waveforms with higher variability in `SSD`.  
 - **Leads**: Sharper peaks and lower feature spread.  
-
-### 3. Visualization Examples  
-- **Mean Waveforms**:  
-  ![Mean Waveforms](images/mean_waveforms.png)  
-- **Feature Scatter Plots**:  
-  ![Scatter Plots](images/scatter_plots.png)  
-
----
