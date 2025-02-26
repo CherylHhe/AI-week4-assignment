@@ -1,4 +1,3 @@
-```markdown
 # GEOL0069 Week 4 Assignment: Unsupervised Classification of Radar Echoes
 
 ## Overview  
@@ -82,31 +81,3 @@ This repository addresses the classification of Sentinel-3 altimetry data into *
   ![Scatter Plots](images/scatter_plots.png)  
 
 ---
-
-## Mark Scheme Alignment  
-1. **GitHub Structure & README Clarity (2%)**:  
-   - Clear directory structure with intuitive organization.  
-   - Step-by-step installation and data setup instructions.  
-   - Concise explanation of methodology and results.  
-
-2. **Code Results & Annotation (3%)**:  
-   - Reproducible workflow from data loading to validation.  
-   - Detailed comments in the Jupyter notebook for clarity.  
-   - Direct validation against ESA labels via confusion matrix.  
-
----
-
-## References  
-- Bishop, C. M. (2006). *Pattern Recognition and Machine Learning*.  
-- ESA Sentinel-3 Product Documentation: [Link](https://earth.esa.int/)  
-- Scikit-learn Documentation: [Clustering Methods](https://scikit-learn.org/stable/modules/clustering.html)  
-
----
-
-## License  
-MIT License. See [LICENSE](LICENSE) for details.  
-``` 
-
----
-
-This README emphasizes **clarity** and **alignment with the mark scheme**, ensuring ease of navigation, reproducibility, and direct addressing of assignment criteria.
